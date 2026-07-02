@@ -23,3 +23,7 @@ console.log(strItems);
 
 const numericItems: Array<number> = [1122, 911, 100];
 console.log(numericItems);
+
+const singleDimension: number[] = [1, 2, 3, 4, 5, 6];
+const TwoDimension: number[][] = [[1, 2, 3, 4, 5, 6]];
+const ThreeDimensione: number[][][] = [[[1, 2, 3, 4, 5, 6]]];
